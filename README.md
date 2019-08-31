@@ -1,6 +1,5 @@
-# Snakes
-This game was written to the occasion of elections in 1998. Game is for three players where each player represetns one party leader. The target is to overreach your rivals and to survive.
+# Hadi
+Remake pùvodní hry z roku 1998 pro soutìž #hvdosdev2019 (high-voltage.cz)´.
 
 ![hadi.png](doc/hadi.png)
 
-Enjoy the game.
